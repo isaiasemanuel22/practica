@@ -4,7 +4,6 @@
 # Alan Lugo
 # Ciro Lopez
 # Victor Silva
-# Alan Lugo
 # Ciro Lopez
 # Iván Schiavone
 # Gian uwu
