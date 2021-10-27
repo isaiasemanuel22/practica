@@ -4,8 +4,7 @@
 # Alan Lugo
 # Ciro Lopez
 # Victor Silva
-# Ciro Lopez
-# Iv·n Schiavone
+# Iv√°n Schiavone
 # Gian uwu
 # Acosta Pedro
 # Rosti Marcos
